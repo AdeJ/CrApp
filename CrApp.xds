@@ -1,0 +1,48 @@
+{
+    "name": "CrApp",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "4.0.2.67",
+            "frameworkVersion": "2.3.1.410"
+        },
+        "canvasControls": {
+            "viewportSize": {
+                "name": "iPhone 5",
+                "builtIn": true,
+                "height": 568,
+                "width": 320
+            },
+            "viewportOrientation": "portrait"
+        },
+        "urlPrefix": "",
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "LF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true
+    },
+    "xdsVersion": "3.0.2",
+    "xdsBuild": 1375,
+    "schemaVersion": 1,
+    "upgradeVersion": 300000000004,
+    "framework": "touch23",
+    "viewOrderMap": {
+        "view": [
+            "b52fc870-f9ea-411d-8d0a-798070005294"
+        ],
+        "store": [],
+        "controller": [],
+        "model": [],
+        "resource": [
+            "4cab0d74-4773-4925-8c97-3a8c7d17746b",
+            "5eaa2485-a93c-4ec4-afc6-6656b8150085"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
