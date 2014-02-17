@@ -1,2 +1,2 @@
 // @tag full-page
-// @require /Users/alastairwhitham/Desktop/CrApp/app.js
+// @require /Library/WebServer/Documents/sencha/MyProjects/2014/CrApp/app.js

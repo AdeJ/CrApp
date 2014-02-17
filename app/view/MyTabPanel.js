@@ -25,7 +25,7 @@ Ext.define('CrApp.view.MyTabPanel', {
             {
                 xtype: 'container',
                 title: 'Tab 1',
-                html: 'ya boo sucks!'
+                html: 'ya boo sucks!.. Whatever'
             },
             {
                 xtype: 'container',

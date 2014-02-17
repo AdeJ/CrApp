@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3541915F-E515-42E7-B1C0-C54145B4C73C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CrApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>75B6B56C-7DBB-4A3A-8E93-7EE0B3CC7D2C</key>
+		<string>https://github.com/AdeJ/CrApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>cordova/platforms/ios/CrApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>75B6B56C-7DBB-4A3A-8E93-7EE0B3CC7D2C</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AdeJ/CrApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>75B6B56C-7DBB-4A3A-8E93-7EE0B3CC7D2C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>75B6B56C-7DBB-4A3A-8E93-7EE0B3CC7D2C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CrApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
